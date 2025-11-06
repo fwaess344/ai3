@@ -75,7 +75,15 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
+
+    labels[0]:{"texts":['ㅁㅁㅁㅁㅁ']}
+    labels[1]:{"texts":['ㄷㄷㄷㄷㄷ']}
+    labels[2]:{"texts":['ㅈㅈㅈㅈㅈ']}
+    labels[3]:{"texts":['ㄱㄱㄱㄱㄱ']}
+
+
 }
+
 
 # ======================
 # 유틸
