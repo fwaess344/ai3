@@ -82,8 +82,8 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
               "videos":["ㅈㅇㅁㅇㅈㅁㅇ"]}
     labels[2]:{"texts":['ㅈㅈㅈㅈㅈ']},
               "videos":["ㄷ다다"]}
-    labels[3]:{"texts":['ㄱㄱㄱㄱㄱ']},
-              "videos":["ㅂㅈ뱀ㅈ아마ㅐㅈㅇㅁ"]}
+    labels[3]:{"texts":['ㄱㄱㄱㄱㄱ'],
+              "videos":["ㅂㅐㅈㅇㅁ"]}
 
 
 }
