@@ -77,13 +77,13 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # },
 
     labels[0]:{"texts":['ㅁㅁㅁㅁㅁ'],
-              "videos":[""]}
+              "videos":["adsf"]}
     labels[1]:{"texts":['ㄷㄷㄷㄷㄷ'],
-              "videos":[""]}
+              "videos":["ㅈㅇㅁㅇㅈㅁㅇ"]}
     labels[2]:{"texts":['ㅈㅈㅈㅈㅈ']},
-              "videos":[""]}
+              "videos":["ㄷ다다"]}
     labels[3]:{"texts":['ㄱㄱㄱㄱㄱ']},
-              :videos":[""]}
+              :videos":["ㅂㅈ뱀ㅈ아마ㅐㅈㅇㅁ"]}
 
 
 }
