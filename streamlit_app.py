@@ -91,7 +91,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
         "texts":['ㄱㄱㄱㄱㄱ'],
               "videos":["ㅂㅐㅈㅇㅁ"],
     }
-
+}
 
 
 
